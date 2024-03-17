@@ -142,6 +142,17 @@ ul {
     color: #1F2937;
 }
 
+.signup-container {
+    background-color: #3882F6;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 64px;
+    margin: 96px 256px;
+    border-radius: 10px;
+}
+
 .signup-btn {
     border: 2px solid white;
+    height: fit-content;
 }
